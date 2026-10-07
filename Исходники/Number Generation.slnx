@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Number Generation/Number Generation.vcxproj" Id="edef8fcd-9e33-4ef7-a9bc-a267b0ff83b3" />
+</Solution>
